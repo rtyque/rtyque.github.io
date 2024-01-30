@@ -1,0 +1,28 @@
+#title {
+    border: 2px solid black;
+    text-align: center;
+}
+div {
+    display: flex;
+    position:absolute;
+    border: 2px solid black;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    font-size: 150%;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+#yes {
+    width:100px;
+    height:70px;
+    left:50%;
+    background-color: tomato;
+}
+#no {
+    width:100px;
+    height:70px;
+    background-color: #0099ff;
+}
